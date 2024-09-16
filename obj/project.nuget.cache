@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HXiHJ5k8Tdou3bMM+rKzMIez6ReNLawez4gc2R8LrU41R3+/rWrAhYq547h1kVadDRWvR4jAq5V64Bpa03oOPQ==",
+  "dgSpecHash": "mhu9I9pgEDZvvbTJ+hnkgGaJA3+woW8HJCwhoIlH0f7Iv4Qkj6jhPvaOOaqXWvR63cHloGozYDbZ7veJPn/zmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Carlos Vela\\Desktop\\tarea\\Manejo e Implementación de Archivos\\Archivos-FAT\\archi\\archi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Carlos Vela\\Desktop\\tarea\\Manejo e Implementación de Archivos\\Archivos-FAT\\archi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Vela\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
